@@ -10,7 +10,7 @@ let navbarHtml = `
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/indexGrupal.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
           </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
@@ -31,14 +31,14 @@ let navbarHtml = `
               Cuestionarios
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="cuestionarios/flexbox/index.html">Flexbox</a></li>
-              <li><a class="dropdown-item" href="cuestionarios/grid/index.html">Grid</a></li>
-              <li><a class="dropdown-item" href="cuestionarios/selectoresCss/Cuestionario.html">Selectores Css</a></li>
+              <li><a class="dropdown-item" href="/cuestionarios/flexbox/index.html">Flexbox</a></li>
+              <li><a class="dropdown-item" href="/cuestionarios/grid/index.html">Grid</a></li>
+              <li><a class="dropdown-item" href="/cuestionarios/selectoresCss/Cuestionario.html">Selectores Css</a></li>
               <li><a class="dropdown-item" href="#">Tema4</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="Nosotros/nosotros.html">Nosotros</a>
+            <a class="nav-link active" aria-current="page" href="/Nosotros/nosotros.html">Nosotros</a>
           </li>
         </ul>
       </div>
